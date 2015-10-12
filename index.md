@@ -1,6 +1,6 @@
 ---
 title: First Work Problem(s) 
-layout: post
+layout: default 
 ---
 
 # OS X Yosemite V10.10.3 - SoapUI-5.2.0.dmg - freezes/hangs imediately after startup.

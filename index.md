@@ -8,3 +8,5 @@ layout: default
 > Fix: `rm -rf /Applications/SoapUI-5.2.0.app/Contents/PlugIns/jre.bundle`
 
 2. No known problems yet. :-) :smile:
+
+3. 2020 still no problems. Keep rollin'
